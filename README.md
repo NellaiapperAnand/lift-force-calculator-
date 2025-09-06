@@ -1,2 +1,9 @@
 # Lift Force Calculator
-First commit from iPad (browser-only).
+
+A single-page Flask application with HTMX, Tailwind CSS, and MathJax.
+
+## Running
+
+```bash
+python app.py
+```
